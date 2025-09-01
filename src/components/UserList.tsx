@@ -1,4 +1,3 @@
-// src/components/UserList.tsx
 import React, { useEffect, useState } from "react";
 import { fetchUsers } from "../api/fetchUsers";
 import { User } from "../types/user";
