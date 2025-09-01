@@ -1,4 +1,3 @@
-// src/api/fetchUsers.ts
 import { User } from "../types/user";
 
 export const fetchUsers = async (): Promise<User[]> => {
